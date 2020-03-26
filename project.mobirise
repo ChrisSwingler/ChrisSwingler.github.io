@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hot Toast",
-    "currentPage": "duckandperiwinkle.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -56,7 +56,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Hot Toast - Home for three Creative Brands",
         "meta_descr": "Interest Sparks - World Wildlife Art Photography by Philippe Ricordel for Interior Decor |\n\nIdea Haven - Joyful audio entertainment for Children (6 - 9 years) |\n\nDuck & Periwinkle Images for giving\nGreeting Cards |\n\nMelvyn Swingler Graphic Design\nBrand identity\n",
         "header_custom": "",
         "footer_custom": "",
