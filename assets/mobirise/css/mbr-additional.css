@@ -4483,7 +4483,7 @@ section.lazy-placeholder:after {
 }
 .cid-rRASgDfcg8 {
   padding-top: 45px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #073b4c;
 }
 .cid-rRASgDfcg8 .card-img {
@@ -4515,6 +4515,46 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rRASgDfcg8 .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-rUX0ckZzky {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rUX0ckZzky .card-img {
+  background-color: #fff;
+}
+.cid-rUX0ckZzky .card-box {
+  padding: 2rem;
+  background-color: #efefef;
+}
+.cid-rUX0ckZzky h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rUX0ckZzky p {
+  text-align: left;
+}
+.cid-rUX0ckZzky .mbr-text {
+  color: #767676;
+}
+.cid-rUX0ckZzky .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rUX0ckZzky .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rUX0ckZzky .my-col {
     flex: 0 0 20%;
     max-width: 20%;
     padding: 15px;
