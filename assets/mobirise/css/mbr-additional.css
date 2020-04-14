@@ -1236,6 +1236,24 @@ section.lazy-placeholder:after {
   padding-bottom: 135px;
   background-image: url("../../../assets/images/20171114-140016-2-2000x1125.jpg");
 }
+.cid-rW94lQyuqZ {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rW94lQyuqZ .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rW94lQyuqZ .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rW94lQyuqZ .mbr-text {
+  color: #767676;
+}
 .cid-rUnCKsq4w6 {
   padding-top: 30px;
   padding-bottom: 30px;
